@@ -1,0 +1,5 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 亢倉子注
+#+DATE: 2015-08-24 23:44:08.828434
+#+PROPERTY: ID KR5d0038
+#+PROPERTY: BASEEDITION WYG    
